@@ -1,11 +1,11 @@
 # Hi there! My name is Amin.👋
 
 # 💫 About Me:
-🔭 I’m currently working on [UWPlanner](https://github.com/Mohammdamin-Sedaghat/UWPlanner)
+🔭 Incoming Video Generation and 3D Computer Vision Researcher at Huawei.
 <br>
-🪨 If you want to go rock climbing or work on a project dm me!
-<br>
-⚡If you are interested in what I do when I'm bored, check out [Cool-Stuff](https://github.com/Mohammdamin-Sedaghat/Cool-Stuff) <br> 
+🪨 If you want to go rock climbing or work on a project reach out!
+<!-- <br>
+⚡If you are interested in what I do when I'm bored, check out [Cool-Stuff](https://github.com/Mohammdamin-Sedaghat/Cool-Stuff) <br>  -->
 <!-- <br>
 🎮 If you are bored and you want to play some games, I recommend [React_Project_Bunk](https://github.com/Mohammdamin-Sedaghat/Recat_Project_Bunk) -->
 
